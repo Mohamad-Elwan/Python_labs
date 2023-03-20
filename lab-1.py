@@ -1,0 +1,7 @@
+student_first_name = input("what your first name?\n")
+student_last_name = input("whats your last name?\n")
+student_age = input("how old are you?\n")
+student_gpa = input("whats your GPA?\n")
+student_major = input("whats your major?\n")
+student_address = input("what you address?\n")
+print('student first name:',student_first_name,'student last name:',student_last_name,'student age:',student_age,'student GPA:',student_gpa,'student major:',student_major, 'student address:',student_address)
